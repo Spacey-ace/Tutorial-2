@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Coin
+  - Ground
+  - Enemy
+  - Orange portal
   layers:
   - Default
   - TransparentFX
